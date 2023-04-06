@@ -1,8 +1,8 @@
-# build and debug
+## build and debug
 
     make
 
-# usage
+## usage
 
     ./intf_managment show    
 
